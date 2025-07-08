@@ -83,7 +83,7 @@ def json_a_html(arbol):
                     html += "</tr>"
                 html += "</table>"
                 html += "</li>"
-            html += "</ul>"
+                html += "</div>"
 
     html += f"<hr><b>Versión:</b> {version if version else ''}<br>"
     html += f"<b>Firma digital:</b> {firma if firma else ''}<br>"
