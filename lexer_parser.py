@@ -138,7 +138,6 @@ CARGOv = [
 ESTADOSv = [
     "to do", "in progress", "canceled", "done", "on hold"
 ]
-chart_PROHIBIDO = "áéíóúÁÉÍÓÚñÑ"
 
 OBL_EQUIPO = [
     "nombre_equipo", "identidad_equipo", "carrera", "asignatura",
